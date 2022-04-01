@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Montserrat:wght@500&family=Rock+Salt&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Far From Homecoming';
+    src: url(/Font/Far-From\ Homecoming\ Updated.otf);
+}
+
+.inner {
+    position: absolute;
+    transform: translate(100px, -300px);
+}
+
+.icon {
+    background-color: #B11313;
+    cursor: pointer;
+}

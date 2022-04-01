@@ -1,0 +1,122 @@
+    @import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Montserrat:wght@500&family=Rock+Salt&display=swap');
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    @font-face {
+        font-family: 'Far From Homecoming';
+        src: url(/Font/Far-From\ Homecoming\ Updated.otf);
+    }
+    
+    .inner {
+        position: absolute;
+        transform: translate(200px, -325px);
+    }
+    
+    .main-role {
+        background-color: #114C92;
+    }
+    
+    .little {
+        position: absolute;
+        transform: translate(120px, -300px);
+    }
+    
+    .sol-top-right {
+        margin-top: 120px;
+        margin-right: 100px;
+    }
+    
+    .sol-bottom-right {
+        margin-bottom: 120px;
+        margin-right: 100px;
+    }
+    
+    .sol-top {
+        margin-top: 120px;
+        margin-left: 100px;
+    }
+    
+    .sol-bottom {
+        margin-bottom: 120px;
+        margin-left: 100px;
+    }
+    
+    audio {
+        width: 560px;
+        height: 611px;
+        background-color: #FFFFFF;
+    }
+    
+    .pill {
+        width: 20%;
+        position: absolute;
+        transform: translate(-95px, 91px);
+    }
+    
+    .gwen1 {
+        width: 15%;
+        position: absolute;
+        transform: translate(55px, 0px);
+    }
+    
+    .mj {
+        width: 15%;
+        position: absolute;
+        transform: translate(340px, 0px);
+    }
+    
+    .gwen2 {
+        width: 15%;
+        position: absolute;
+        transform: translate(202px, 160px);
+    }
+    
+    .second-role {
+        background-color: #B11313;
+    }
+    
+    .para {
+        font-size: 70%;
+        border: 1px solid transparent;
+        width: 315px;
+        height: 389px;
+        padding-left: 85%;
+        padding-top: 15%;
+    }
+    
+    .thor {
+        position: absolute;
+        width: 177px;
+        transform: translate(90px, 20px);
+    }
+    
+    .hawkey {
+        position: absolute;
+        width: 177px;
+        transform: translate(90px, 225px);
+    }
+    
+    .text {
+        border: 1px solid transparent;
+        background: rgb(82, 136, 217, 0.7);
+        width: 42%;
+        height: auto;
+        position: absolute;
+        transform: translate(663px, -526px);
+    }
+    
+    .para1 {
+        padding: 17px;
+    }
+    
+    #labo {
+        background: url(/assets/Illustration/img32.png);
+        background-size: cover;
+    }
+    
+    .icon {
+        background-color: #114C92;
+        cursor: pointer;
+    }

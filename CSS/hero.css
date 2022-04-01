@@ -17,6 +17,10 @@
     .main-role {
         background-color: #114C92;
     }
+ iframe {
+        border: 0;
+        padding-top: 50px;
+    }
     
     .little {
         position: absolute;

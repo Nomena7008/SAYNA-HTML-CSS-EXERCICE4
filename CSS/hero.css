@@ -115,9 +115,12 @@
         padding: 17px;
     }
     
-    #labo {
+     #labo {
         background: url(/assets/Illustration/img32.png);
         background-size: cover;
+        width: 570px;
+        position: relative;
+        left: 60px;
     }
     
     .icon {
